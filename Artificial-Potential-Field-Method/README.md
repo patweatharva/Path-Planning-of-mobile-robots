@@ -4,8 +4,6 @@ Using the python code provided in this repository, path planning is done through
 
 ## Path
 
-Following plot shows the robot path
-
  ![alt text](https://github.com/patweatharva/Path-Planning-of-mobile-robots/blob/main/Artificial-Potential-Field-Method/robot%20path.png)
  
  ## Artificial Potential field 3D plot
